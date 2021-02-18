@@ -1,0 +1,9 @@
+## One Paragraph Article Reaction
+
+For this assignment, I read Adam Millard-Ball's paper on street-network sprawl. I found the methodology, the findings, and the policy recommendations really interesting. From a methodology standpoint, I was excited to see that he used open data to determine the "sprawliness" of the nodes and edges of the entire world! That is an absolutely huge dataset and gives interesting findings. From a findings point of view, I was interested to see an international perspective on sprawl. I often think of sprawl as an American problem, so it was interesting to see how many other countries (both developed and developing) are making the same mistakes we are. I was especially interested in his discussion of gated communities - these are a huge problem for walkability and, as he points out, for greater social issues like segregation. His counterexamples of countries that are doing well in this regard (especially Japan and some middle-eastern countries) were interesting as well. Lastly, I loved his policy recommendations. I'm pretty market-oriented, so solutions like carbon taxes, motor fuel taxes, and congestion pricing all strike me as very rationale. Most of all, I like his stylization of a "cul-de-tax" (!!) and other market disincentives to unconnected networks to internalize the externalities they cause. 
+
+## Questions: 
+
+1. What is Japan doing right from a policy perspective to cause their low SNDi? Do they have more regulation or more market incentives than other countries to encourage their frequently-occurring irregular grid pattern? Or is it something else?
+
+2. You mentioned that the U.S. and many EU countries peaked in sprawl in 2000, and have been slowly becoming more connected since then. You mentioned that in Britain, design guidance has played a large role in this. Do you think design guidance is similarly responsible for the U.S. and other EU countries' turnarounds?
